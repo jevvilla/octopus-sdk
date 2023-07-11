@@ -17,7 +17,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React Version {pkg?.version}</h1> change
+      <h1>Vite + React Version {pkg?.version}</h1> NEW VERSION TESTING API
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
